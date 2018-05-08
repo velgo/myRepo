@@ -1,0 +1,114 @@
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\ApplicationInsights.config
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\csc.exe
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\System.Collections.Immutable.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\vbc.exe
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\VBCSCompiler.exe
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\roslyn\VBCSCompiler.exe.config
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\Test.dll.config
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\Test.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\Test.pdb
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\Antlr3.Runtime.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.AI.Web.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.AI.WindowsServer.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.ApplicationInsights.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.Web.Infrastructure.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\Newtonsoft.Json.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\System.Web.Helpers.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\System.Web.Mvc.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\System.Web.Optimization.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\System.Web.Razor.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\System.Web.WebPages.Deployment.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\System.Web.WebPages.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\System.Web.WebPages.Razor.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\WebGrease.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.AI.Web.xml
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.AI.WindowsServer.xml
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.ApplicationInsights.xml
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\System.Web.Helpers.xml
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\System.Web.Mvc.xml
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\System.Web.Optimization.xml
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\System.Web.Razor.xml
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\System.Web.WebPages.xml
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\System.Web.WebPages.Deployment.xml
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\System.Web.WebPages.Razor.xml
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\Antlr3.Runtime.pdb
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\Newtonsoft.Json.xml
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.pdb
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\EntityFramework.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\EntityFramework.SqlServer.dll
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\EntityFramework.xml
+c:\users\serge\documents\visual studio 2015\Projects\Test\Test\bin\EntityFramework.SqlServer.xml
+h:\Test\Test\bin\ApplicationInsights.config
+h:\Test\Test\bin\roslyn\csc.exe
+h:\Test\Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+h:\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+h:\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+h:\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+h:\Test\Test\bin\roslyn\Microsoft.CSharp.Core.targets
+h:\Test\Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+h:\Test\Test\bin\roslyn\System.Collections.Immutable.dll
+h:\Test\Test\bin\roslyn\System.Reflection.Metadata.dll
+h:\Test\Test\bin\roslyn\vbc.exe
+h:\Test\Test\bin\roslyn\VBCSCompiler.exe
+h:\Test\Test\bin\roslyn\VBCSCompiler.exe.config
+h:\Test\Test\bin\Test.dll.config
+h:\Test\Test\bin\Test.dll
+h:\Test\Test\bin\Test.pdb
+h:\Test\Test\bin\Antlr3.Runtime.dll
+h:\Test\Test\bin\EntityFramework.dll
+h:\Test\Test\bin\EntityFramework.SqlServer.dll
+h:\Test\Test\bin\Microsoft.AI.Agent.Intercept.dll
+h:\Test\Test\bin\Microsoft.AI.DependencyCollector.dll
+h:\Test\Test\bin\Microsoft.AI.PerfCounterCollector.dll
+h:\Test\Test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+h:\Test\Test\bin\Microsoft.AI.Web.dll
+h:\Test\Test\bin\Microsoft.AI.WindowsServer.dll
+h:\Test\Test\bin\Microsoft.ApplicationInsights.dll
+h:\Test\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+h:\Test\Test\bin\Microsoft.Web.Infrastructure.dll
+h:\Test\Test\bin\Newtonsoft.Json.dll
+h:\Test\Test\bin\System.Web.Helpers.dll
+h:\Test\Test\bin\System.Web.Mvc.dll
+h:\Test\Test\bin\System.Web.Optimization.dll
+h:\Test\Test\bin\System.Web.Razor.dll
+h:\Test\Test\bin\System.Web.WebPages.Deployment.dll
+h:\Test\Test\bin\System.Web.WebPages.dll
+h:\Test\Test\bin\System.Web.WebPages.Razor.dll
+h:\Test\Test\bin\WebGrease.dll
+h:\Test\Test\bin\EntityFramework.xml
+h:\Test\Test\bin\EntityFramework.SqlServer.xml
+h:\Test\Test\bin\Microsoft.AI.DependencyCollector.xml
+h:\Test\Test\bin\Microsoft.AI.ServerTelemetryChannel.xml
+h:\Test\Test\bin\Microsoft.AI.Web.xml
+h:\Test\Test\bin\Microsoft.AI.WindowsServer.xml
+h:\Test\Test\bin\Microsoft.ApplicationInsights.xml
+h:\Test\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+h:\Test\Test\bin\System.Web.Helpers.xml
+h:\Test\Test\bin\System.Web.Mvc.xml
+h:\Test\Test\bin\System.Web.Optimization.xml
+h:\Test\Test\bin\System.Web.Razor.xml
+h:\Test\Test\bin\System.Web.WebPages.xml
+h:\Test\Test\bin\System.Web.WebPages.Deployment.xml
+h:\Test\Test\bin\System.Web.WebPages.Razor.xml
+h:\Test\Test\bin\Antlr3.Runtime.pdb
+h:\Test\Test\bin\Newtonsoft.Json.xml
+h:\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+h:\Test\Test\obj\Debug\Test.dll
+h:\Test\Test\obj\Debug\Test.pdb
