@@ -23,11 +23,14 @@ namespace Test.Controllers
         public ActionResult Index()
         {
             IEnumerable<Sentence> sentences = data.Sentences;
-            foreach (var sentence in sentences)
+            if (sentences != null)
             {
-                sentence.Text = Reverse(sentence.Text);
+                foreach (var sentence in sentences)
+                {
+                    sentence.Text = Reverse(sentence.Text);
+                }
+                ViewBag.Sentences = sentences;
             }
-            ViewBag.Sentences = sentences;
             return View();
         }
 
@@ -35,14 +38,17 @@ namespace Test.Controllers
         public void SentenceList()
         {
             IEnumerable<Sentence> sentences = data.Sentences;
-            foreach (var sentence in sentences)
+            if (sentences != null)
             {
-                sentence.Text = Reverse(sentence.Text);
-            }
-            ViewBag.Sentences = sentences;
+                foreach (var sentence in sentences)
+                {
+                    sentence.Text = Reverse(sentence.Text);
+                }
+                ViewBag.Sentences = sentences;
+            }     
         }
 
-        [HttpGet]
+        [HttpPost]
         public void GetSentences(RequestModel _model)
         {
             if(_model != null && _model.Word!=null)
